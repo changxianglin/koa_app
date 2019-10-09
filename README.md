@@ -1,2 +1,2 @@
 # koa_app
-la little exercise
+a little exercise
