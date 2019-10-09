@@ -1,0 +1,29 @@
+{
+  "name": "koa_app",
+  "version": "1.0.0",
+  "description": "la little exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/changxianglin/koa_app.git"
+  },
+  "keywords": [],
+  "author": "xianglin <281532612@qq.com> (zhourong.clube)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/changxianglin/koa_app/issues"
+  },
+  "homepage": "https://github.com/changxianglin/koa_app#readme",
+  "dependencies": {
+    "koa": "^2.8.2",
+    "koa-ejs": "^4.2.0",
+    "koa-router": "^7.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  }
+}
